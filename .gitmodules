@@ -1,0 +1,78 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/sltcestloic/libft
+[submodule "get-next-line"]
+	path = get-next-line
+	url = https://github.com/sltcestloic/gnl
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/sltcestloic/ft_printf
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/sltcestloic/cub3d
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/sltcestloic/push_swap
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/sltcestloic/minitalk
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/sltcestloic/so_long
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/sltcestloic/minishell
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/sltcestloic/philosophers
+[submodule "piscine-cpp"]
+	path = piscine-cpp
+	url = https://github.com/sltcestloic/piscine-cpp
+[submodule "inception"]
+	path = inception
+	url = https://github.com/sltcestloic/inception
+[submodule "ft_containers"]
+	path = ft_containers
+	url = https://github.com/sltcestloic/ft_containers
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/sltcestloic/ft_irc
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/sltcestloic/ft_transcendence
+[submodule "libasm"]
+	path = libasm
+	url = https://github.com/sltcestloic/libasm
+[submodule "matcha"]
+	path = matcha
+	url = https://github.com/sltcestloic/matcha
+[submodule "avaj-launcher"]
+	path = avaj-launcher
+	url = https://github.com/sltcestloic/avaj-launcher
+[submodule "snow-crash"]
+	path = snow-crash
+	url = https://github.com/sltcestloic/snow-crash
+[submodule "rainfall"]
+	path = rainfall
+	url = https://github.com/sltcestloic/rainfall
+[submodule "override"]
+	path = override
+	url = https://github.com/sltcestloic/override
+[submodule "ft_ality"]
+	path = ft_ality
+	url = https://github.com/sltcestloic/ft_ality
+[submodule "ft_turing"]
+	path = ft_turing
+	url = https://github.com/sltcestloic/ft_turing
+[submodule "Inception-of-Things"]
+	path = Inception-of-Things
+	url = https://github.com/sltcestloic/Inception-of-Things
+[submodule "taskmaster"]
+	path = taskmaster
+	url = https://github.com/sltcestloic/taskmaster
+[submodule "matt-daemon"]
+	path = matt-daemon
+	url = https://github.com/ctaleb/matt-daemon
+[submodule "malloc"]
+	path = malloc
+	url = https://github.com/sltcestloic/malloc
