@@ -73,3 +73,6 @@
 [submodule "matt-daemon"]
 	path = matt-daemon
 	url = https://github.com/ctaleb/matt-daemon
+[submodule "malloc"]
+	path = malloc
+	url = https://github.com/sltcestloic/malloc.git
