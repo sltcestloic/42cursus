@@ -43,9 +43,6 @@
 [submodule "libasm"]
 	path = libasm
 	url = https://github.com/sltcestloic/libasm
-[submodule "matcha"]
-	path = matcha
-	url = https://github.com/sltcestloic/matcha
 [submodule "avaj-launcher"]
 	path = avaj-launcher
 	url = https://github.com/sltcestloic/avaj-launcher
